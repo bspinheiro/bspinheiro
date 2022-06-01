@@ -1,6 +1,6 @@
 ## hi there 👋
 - 👨🏻‍💻 i’m a proud student at [42.rio](www.42.rio)
-- 🎓 former camper at [le wagon](www.lewagon.com)
+- 🎓 former camper at [lewagon](lewagon.com)
 - 🌐 en fr pt proficent speaker
 - ♒️ arts, coffee and nature keep me grounded
 - ⚓️ used to be an officer on drillships
