@@ -5,7 +5,7 @@
 - ♒️ Arts, coffee and nature keep me grounded
 - ⚓️ I used to be an Officer on drillships
 
-<div id="badges" align="left">
+<div id="badges" align="right">
   <a href="https://www.linkedin.com/in/bspinheiro/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
+
 
 <!--
 **bspinheiro/bspinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
