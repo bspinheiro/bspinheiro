@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 - 👨🏻‍💻 I’m a proud student at [42.rio](www.42.rio)
 - 🎓 Former camper at [Le Wagon](www.lewagon.com)
 - 🌐 EN FR PT Speaker
