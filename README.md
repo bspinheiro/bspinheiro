@@ -1,9 +1,9 @@
 ## hi there 👋
 - 👨🏻‍💻 i’m a proud student at [42.rio](www.42.rio)
-- 🎓 former camper at [lewagon](lewagon.com)
+- 🎓 former camper at [lewagon.com](https://www.lewagon.com)
 - 🌐 en fr pt proficent speaker
 - ♒️ arts, coffee and nature keep me grounded
-- ⚓️ used to be an officer on drillships
+- ⚓️ also used to be an officer on drillships
 
 <div id="badges" align="right">
   <a href="https://www.linkedin.com/in/bspinheiro/">
