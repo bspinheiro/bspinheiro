@@ -5,7 +5,10 @@
 - ♒️ arts, coffee and nature keep me grounded
 - ⚓️ also used to be an officer on drillships
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bspinheiro&show_icons=true)
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bspinheiro&show_icons=true)
+
+
 
 <div id="links" align="left">
   <a href="https://www.linkedin.com/in/bspinheiro/">
