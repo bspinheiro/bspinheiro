@@ -8,6 +8,15 @@
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bspinheiro&show_icons=true)
 
+<!--START_SECTION:waka-->
+
+```text
+C            1 hr 28 mins    █████████████████▒░░░░░░░   69.16 %
+Makefile     38 mins         ███████▓░░░░░░░░░░░░░░░░░   30.36 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+```
+
+<!--END_SECTION:waka-->
 
 
 <div id="links" align="left">
